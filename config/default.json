@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Tera23:Tera23@devdemo-usvdf.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Tera23:Tera23@devdemo-usvdf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "superSecretToken"
 }
