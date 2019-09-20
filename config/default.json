@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Tera23:Tera23@devdemo-usvdf.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "superSecretToken"
+  "jwtSecret": "superSecretToken",
+  "githubClientId": "936cf48dc1d12009ac0b",
+  "githubSecret": "a4af72ebbc648cb5ee57a45fd402c7d53ed6c017"
 }
